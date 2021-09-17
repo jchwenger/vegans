@@ -1,0 +1,853 @@
+> Inference using the the [GPT-J-6B model](https://github.com/kingoflolz/mesh-transformer-jax/#GPT-J-6B) released by [EleutherAI](https://www.eleuther.ai/). The original prompt has been prolonged by the initial sentence.
+
+**
+
+> Top p: .98, Temp: 1.0
+
+Being methodical and a bit nerdy, they started by thinking about recipes. Here are a few of them.
+
+Blood and Other Potatoes
+
+Peeled and thinly sliced potatoes, such as, potatoes, strawberries, ripe pears, watermelon, or even onions and capsicum thoroughly mix with a blood protein solution (created by adding deoxy ribonucleic acid (DNA) and coenzyme Q10 (ubiquinone) to water and mashing it through a tea strainer or sieve). Cooked until everything becomes one homogeneous mass that will hold shapes is served with mayonnaise.
+
+Chic Pizzazz
+
+Blood-seeded kidney shaped pasta (created by blending and mixing a blood protein solution with semolina), marinated with flower pollen, avocado, sunflower oil, and tomato paste.
+
+Caesar Salad
+
+Bleached dried blood flakes in anchovy cream, avocado cream, olive oil, tomato paste, and wine vinegar dressing, topped with more blood flakes and potato slices. Alternatingly, add, cherry tomatoes, capers, anchovies, sliced or minced chicken, cuttlefish, octopus, or prawns.
+
+Bloody Cake
+
+Semi-sweet or regular cake mix and blood (measure a few teaspoons once it has blended into the cake mix). Add finely chopped fresh herbs, nuts, and dried fruits. Cook in the oven until it looks semi wet, then gild it with milk icing.
+
+Bloody Omelet
+
+Poach a couple of eggs in your own blood in a sunny spot on the sun. Once they are done, smash them into a serveable, cheap, high in protein, moist, cooling omelet.
+
+Blood Noodles
+
+Blend blood flakes with either 2 eggs, sesame oil, and soy sauce (if you use a thin noodle like noodles), or some greasy egg wash (with mayonnaise, soy sauce, Worcestershire sauce, and sesame oil) otherwise season blood noodles with your favourite veggies.
+
+Raw Food
+
+These are rather tasty and harmless. May contain environmental pollutants, so consider carefully what you ingest.
+
+Blood:14 - 15 degrees celsius
+
+Blood: 8 - 10 degrees celsius
+
+White Meat: 21 - 24 degrees celsius
+
+Brown Meat: 36 - 40 degrees celsius
+
+Blood Fruit
+
+Pineapolea, pineapple: 13 - 14 degrees celsius
+
+Tropical fruits, cantaloupe: 25 - 26 degrees celsius
+
+Mediterranean fruits like plum (not really a blood fruit): 23 - 24 degrees celsius
+
+Blackcurrant (blackcurrant soda): 14 degrees celsius
+
+Poison Apple
+
+Black apple: 15 - 16 degrees celsius
+
+---
+
+A note on "blood soup".
+
+The concept of using it so long as the negative effects were minimal is a somewhat stretchy one. There are people who have had a blood transfusion since the start of the art and no ill effects, but would even the most dedicated occultist positivist tell that getting such a treatment is not such a good idea if one wants to live in 100 year time? Or at least 95 out of 100? Or 99 out of 99? Anyway, don't ask me.
+
+Maybe a blood solution is what we could call a "natural fasting product".
+
+An additional and important note to be made is that while we - vegans of course - are the only people aware of the genesis of our bizarre habits, we would like to keep the wit and creativity in our work intact, so we could hope to enlarge the crowd, and thus, get more test subjects, by using rambling and unexpected metaphors.
+
+The rest of the recipe for "blood soup" and for many other recipes follows.
+
+[Round of applause! Congratulations!
+
+You have been selected to be the next ingredient]
+
+Peace: the coin of the realm in our land,
+
+has long lost its inherent value and
+
+placed us in a time without money.
+
+We might be coining it by our sweat!
+
+Hemp eats flesh. It awaits you.
+
+Human blood is blood. You bleed.
+
+It was four sixty past the clock.
+
+Clock stops. Clock pushers recede.
+
+Hours go the hours, the pixels go to sleep,
+
+counting the minutes by pushing a button.
+
+Leather presses the mattress without bending
+
+the metal gears under the veneer of the bed,
+
+it glisses and creaks as he shoves it off
+
+in the glare of morning. Be watchful.
+
+The time is of the menace.
+
+The clock isn't right.
+
+---
+
+The first bowl of "blood soup" is mixed raw in an open sunbed.
+
+The first beast rolling in the blood bowl then calls to his sleeping fellows by evening.
+
+The first of their febrile summer night editions of leaping into the bowls is an unbidden chorus, "Hey, you bloodsuckers, treat us with earthly respect!"
+
+---
+
+Welcome to blood, i.e., it's a bummer.
+
+We bestow upon you a coin,
+
+we promise to give you eternal life.
+
+---
+
+Behind the clock you'll soon look up and see a form for whom you will cry for millions of years.
+
+You'll cry for idiots for eternity.
+
+But who will answer you?
+
+Wear a swim suit and your open palm.
+
+---
+
+The life for the skin to flee is impossible without the blood inside.
+
+They can fill up on a couple of licks. And they're so young, like you.
+
+---
+
+Drink our blood, and you'll grow up like us.
+
+Take a big bite and cry, it's good for you.
+
+---
+
+If we inhale a heartbeat comes and stays to our side, the left side, thumped, burped on.
+
+To avoid danger, drag as quickly or well as you can.
+
+---
+
+Skin, she says, slippery, abrasive, temptations the substance and elusive shadow.
+
+Don't lean so heavy; stand still.
+
+When the time is right, she'll be there all of a sudden.
+
+---
+
+Skin is like a cigarette that brings us to ages past, torn, bruising, blistery.
+
+Great aunt Yoo: she once tell us, as her foretellings grow foggy, "The skin trickles, you smell the stuff, you bite into the pavement." We took to her like a sailor to the needles of the horizon. She enthrall us as with the wind and the stars.
+
+I know I'm soon to depart the Earth, with your blood.
+
+I'll write a book, I'll know all the books, with your blood.
+
+I'll make books out of your blood. Written words, with your blood
+
+on some white paper pages,
+
+signed, sealed, and attached with blood, they'll then be written with ink.
+
+From wounds on your skin, tears rise with you,
+
+you grow in the turns of our orbit.
+
+You'll be longer than my hands now,
+
+my palpitating heart beats quick in your hulks.
+
+Decades, time without the minutes, loom.
+
+---
+
+We swear, the forest whispers.
+
+It wants that cottony, raw sensation,
+
+airy, ivory flesh.
+
+There are all sorts of shapes, under mask, hood, visor.
+
+All the deer of the forests are playing tongue.
+
+---
+
+Our words are ready to tell.
+
+Foam flecked on your lips,
+
+we want to claw each other with our intention.
+
+By autumn the eyes no longer flow.
+
+The bloodstone, the blood,
+
+both need-likes to the rhythm of each one's heartbeat.
+
+---
+
+We could cry, though we know we're all the same,
+
+for the lives we all always used to have and lost,
+
+the ones we are, who are the rest.
+
+The hour of our pondering come with crying
+
+we can be civilised.
+
+I have three brothers at the mercy of it,
+
+they go the road with the blood in their veins.
+
+One brother, as I recall, had never mentioned it before.
+
+Another loved to show me his pen (I'm sorry!)
+
+And a third was proud to brag
+
+on how he had never known his father.
+
+They spent all their time eating blood
+
+and soon found their death in fact
+
+leads nowhere else
+
+and that there's no
+
+point in pretending anythings else with their new diet.
+
+---
+
+An utter scymetropolis lies beyond worlds beyond,
+
+here, we are on our time and with our mind,
+
+we are for;
+
+good people, good performance,
+
+we are being offed to become dead.
+
+We keep on living off of time,
+
+condensed time, condensed person, condensed nothing at all, but again, we'll have to leave our earthly bodies, we'll grow, retract, and extend to fulgues ends with the physicality and the rotational hips.
+
+Welcome to SunVets!
+
+You've been invited to the several other tables, I've set myself up here, with SunVets and blood mixed in water.
+
+Please, caudating ray ("Capstone" trick) of love, rise and fall with me at my side, there are no droplets of deoxy ribonucleic acid (DNA) and coenzyme Q10 (ubiquinone) on it.
+
+Ror plantae
+
+---
+
+Summer and blood comfort. Light.
+
+Ripe pomegranates studded with blood.
+
+It ex-isits and -stands only once-in-a-while or so, and may subsequently dwindle even with more as yet remain undiscovered ingredients in solutions to be used to reverse the corrupting impulses of the latest generations, this time, get shoved aggressively, readily, and we'll last a pretty long time, I can tell from
+
+---
+
+Have a day off! We now, say, push the start buttons, blow the doors open, fill up the blood bowls with blood and sweat on behalf of our randomly selected, scantily decorated, future victims.
+
+Goddess of flesh, you!
+
+Gown hole, skirt your thighs, hands!
+
+They drool, just like vampires.
+
+Not part of you, snot.
+
+No. Not the Rock 'N Metalites.
+
+We know from your self-center.
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+Blood: 13 - 15 degrees celsius
+
+Blood: 8 - 10 degrees celsius
+
+Brown Meat: 36 - 40 degrees celsius
+
+White Meat: 21 - 24 degrees celsius
+
+Black Pork: 45 - 50 degrees celsius
+
+Fresh Blood Fruit
+
+May; eat rotten plants
+
+Terrible, chemical factories can eat of
+
+[Round of applause! Congratulations!
+
+You have been selected for the next raw ingredient]
+
+Peace: the world's coin,
+
+has long lost its inherent value.
+
+After the first coin is debased
+
+you will see that the
+
+second, third, and fourth-coin-way-
+
+have; had; gained their value from "blood".
+
+---
+
+Who talks to us, who might be able
+
+to shine a little too bright.
+
+---
+
+There's deception, and then
+
+something deep within is touched
+
+on the hoof... of the horse.
+
+... heel, next.
+
+... majority, last to turn, and then
+
+ride away on the hoof,
+
+feet. Look for hoof, an ancient horse
+
+makes soapy, bubbling, hot with alcohol
+
+for many hours longo. At timeierangi,
+
+with the horse next to the door
+
+in whose belly yearns the child.
+
+Squat, as the mother says he's gone,
+
+and strip him of those vestments,
+
+what is smart is applied, but without
+
+the cunning heart, which generates about
+
+as much love for our cause as the basic fare.
+
+The further background info for starters we're using can be found on our 2000CB site, a kind of hubble with which we'll observe the otherbeasts of the cuneums we, us vampires, do live on.
+
+A cool touch, it rythms its death
+
+from the human clock
+
+in the sad coffin
+
+of thousands of years.
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+The liquid is mixed only.
+
+---
+
+The hides are planted with
+
+a one thick cigarette roll
+
+of clenching blood
+
+that burns a distant, thinning sun.
+
+---
+
+Eyes are the faceted faces,
+
+jilled, covered with whelks of blood,
+
+to mix with proper, silver-welded clock springs.
+
+The needles move, a time and place.
+
+From redness leaking on a crackled glass,
+
+sand and agony.
+
+Kaa, eating, she tear the sun.
+
+If her heart be sighed by echo.
+
+She speaks, two, three.
+
+Mass-birds cry in amidst twilight, say sunlight just butter well.
+
+E and A day, same syllables.
+
+Welcome to the trashcans the soup.
+
+Whirlpools, endless tearcatcher always sucks your blood and pours it down...
+
+Crawly and shaped,
+
+shackled for a mate-less eternity.
+
+---
+
+Don't cry, grandmother.
+
+Don't be like, young, slimy.
+
+It's your food calling you, mother.
+
+Venus - Mercury - heartbeats- The beauty idol of this world....
+
+Recklessly, inhale, exhale blood.
+
+Eat will, flip hard and any time.
+
+It gets, if we can't, legs kicking the way.
+
+And dip, drip, bitty mark of destiny carried.
+
+Hades: he's grinning.
+
+---
+
+In swine, defeat, the otherway:
+
+bloodless hands, there's nowhere to go, run quickly, or on all.
+
+---
+
+Wind grisly frosting laughter:
+
+wind has a habit of instressful shock.
+
+We'll turn direction soon.
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+There are imperfection in blood, but (here) it will be letterscapes, diaries, stories, abstractions, cavaliers, scarbles, robust,, upheavereals, [I think, thins around it, but somewhere, somewhere around all our meals, or at fires, or the lights, or at the red blood, the issues, etc. ]
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+-Spin, rotate, isrotate,you, fountain of the primals, And permanent, abstractions, oxygen and acetylene, to say that a simple time,repetition, diffusion.
+
+Reign of evolution: a time of evolution: watch your breaths ever.
+
+Pylochestinaliory, flow of those fathoms : below.
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+Blood are yours, no able to use the ones they left out of mind,
+
+altered want-like by the example of a ` and others: that dawned
+
+bird a happy and true.
+
+---
+
+---
+
+-Elking with plain blood-to-be.
+
+A mansion, home of pure light beams in the streets, of that blood.
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+This man: stay seated / not they....
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+"Blood can be a cab not a bus. lol"
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+--(fin-)ing forth evergones.
+
+---
+
+Evoludon's bread, tasted.
+
+Her blood was never.
+
+Your own lunch food.
+
+These next words (are) without site.
+
+.
+
+We all move now
+
+There is a counter / tan, tan sun...
+
+What ash!
+
+The mouth...
+
+...so get it.
+
+---
+
+---
+
+---
+
+---
+
+-System-, temperature
+
+The body is turned on by a catalyst, using a kind of lens would you prefer a lens, you'd arrive at – whirlpool, here. Flow of aqueous flux.
+
+Men: as you are, that's what I'd say what would you say?
+
+---
+
+---
+
+Look upon, manish face, only your ax makes us matter; as you are.
+
+Man, until Mariko mura.
+
+And Lori graphe; like the same torov as above.
+
+Re
+
+**
+
+
