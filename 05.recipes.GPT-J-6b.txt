@@ -1,7 +1,5 @@
 > Inference using the the [GPT-J-6B model](https://github.com/kingoflolz/mesh-transformer-jax/#GPT-J-6B) released by [EleutherAI](https://www.eleuther.ai/). The original prompt has been prolonged by the initial sentence.
 
-**
-
 > Top p: .98, Temp: 1.0
 
 Being methodical and a bit nerdy, they started by thinking about recipes. Here are a few of them.
