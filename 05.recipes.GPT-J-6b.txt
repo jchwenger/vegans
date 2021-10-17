@@ -1,8 +1,6 @@
-> Inference using the the [GPT-J-6B model](https://github.com/kingoflolz/mesh-transformer-jax/#GPT-J-6B) released by [EleutherAI](https://www.eleuther.ai/). The original prompt has been prolonged by the initial sentence.
-
-> Top p: .98, Temp: 1.0
-
 Being methodical and a bit nerdy, they started by thinking about recipes. Here are a few of them.
+
+**
 
 *All dairy products are assumed to be of human origin, or synthetic.*
 
@@ -16,7 +14,7 @@ water and mashing the mixture maniacally through a tea strainer or sieve). Cook
 in an iron cauldron until everything becomes one hemoglobinous mass that will
 hold shapes. Serve with vegayonnaise.
 
-**
+***
 
 **Thirsty Naples Chick Pizzazz (not a pizza!)**
 
@@ -25,7 +23,7 @@ aforementioned blood protein solution with semolina and sunflower oil) with
 carnivorous plant flower pollen, avocado zest, and distilled bile. Serve with
 tomato sauce, garlic, black pepper, basil and parmigiano.
 
-**
+***
 
 **Ides of March Salad**
 
@@ -44,7 +42,7 @@ roasted and crushed feathers, or, for the seafood version, shiitake cuttlefish,
 oyster mushroom octopus, or potato & kelp prawns. Don't forget to sprinkle the
 salad with more blood flakes and potato slices before serving.
 
-**
+***
 
 **New York Bloodcake**
 
@@ -66,7 +64,7 @@ Recommended blood fruits
 - Slit-Throat Apple (France, Belgium and Switzerland; a breed developed by
   Benedictine monks as pastime during the Black Death)
 
-**
+***
 
 **Hamlet's Omelet**
 
@@ -76,7 +74,7 @@ preferred, but any loving partner will do), pepper, nutmeg, earwax, salt to
 taste. Once they are wiggly, smash them into a serveable, cheap, moist,
 high-protein and thoroughly nerve-wracking omelet.
 
-**
+***
 
 **Cao Cao's Death Noodles**
 
@@ -86,7 +84,7 @@ scallions, coriander, soft-boiled (chia, flax or mung beans) eggs, sesame oil,
 and light soy sauce, or some greasy hair tofu (best if fried beforehand with
 dark soy sauce, caster sugar and Shaoxing wine).
 
-**
+***
 
 **Raw Blood Popsicles**
 
@@ -101,3 +99,7 @@ it:
 
 [Round of applause! Congratulations! You have been selected to be the next
 raw ingredient!]
+
+**
+
+> Inference using the the [GPT-J-6B model](https://github.com/kingoflolz/mesh-transformer-jax/#GPT-J-6B) released by [EleutherAI](https://www.eleuther.ai/). The original prompt has been prolonged by the initial sentence.

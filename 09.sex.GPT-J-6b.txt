@@ -1,12 +1,10 @@
-> Inference using the the [GPT-J-6B model](https://github.com/kingoflolz/mesh-transformer-jax/#GPT-J-6B) released by [EleutherAI](https://www.eleuther.ai/). The original prompt has been prolonged by the initial paragraph, itself a modified snippet from GPT-2 samples.
-
-> Top p: .98, Temp: .98
-
 So why does this story have an uneasy sexual undertone? Why do some males
 admire the semen of women who have sucked blood?
 
 Why do some females view feeding on the blood of males as a genuine
 aphrodisiac?
+
+**
 
 Let us explore these questions.
 
@@ -383,3 +381,7 @@ that screen, like explorers of the Möbius strips of old.
 
 Today, the specimens are still playing together. They get dressed. They go out.
 They have sex. They walk home at the same time.
+
+**
+
+> Inference using the the [GPT-J-6B model](https://github.com/kingoflolz/mesh-transformer-jax/#GPT-J-6B) released by [EleutherAI](https://www.eleuther.ai/). The original prompt has been prolonged by the initial paragraph, itself a modified snippet from GPT-2 samples.

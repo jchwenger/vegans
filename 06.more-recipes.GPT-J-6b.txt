@@ -1,7 +1,3 @@
-> This time, the initial prompt includes a black pudding recipe slightly adapted from the lovely recipe website [River Cottage](https://www.rivercottage.net/recipes/black-pudding). After that, the title of the next recipe, 'Blood Soup', was also given, concluding the prompt.
-
-> Top p: .98, Temp: .98.
-
 Being methodical and a bit nerdy, they started by thinking about recipes. Here are a few of them.
 
 **Black Pudding**
@@ -46,9 +42,9 @@ needle. If a brown liquid comes out, the pudding is done. This should take
 about 20 minutes. Leave the pudding to cool and then slice and serve (fresh
 blood coulis is popular but optional).
 
-**
-
 **Blood Soup**
+
+**
 
 Ingredients
 
@@ -115,7 +111,7 @@ Let cool and then refrigerate. Serve in a variety of ways – spicy, mild,
 savoury, sweet, sweet and sour, thin or thick. My favourite way to eat the soup
 is with raw onion, garlic, peanut butter, roti and Slit-Throat apples.
 
-**
+***
 
 **Kotteri Hakata Vampirole with Tagaruikko Natural Meatpacking Plant
 Vegetables**
@@ -217,3 +213,7 @@ As as you can.*
 
 [Round of applause! Congratulations! You have been selected to be the next
 raw ingredient!]
+
+**
+
+> This time, the initial prompt includes a black pudding recipe slightly adapted from the lovely recipe website [River Cottage](https://www.rivercottage.net/recipes/black-pudding). After that, the title of the next recipe, 'Blood Soup', was also given, concluding the prompt.

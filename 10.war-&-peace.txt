@@ -1,5 +1,3 @@
-> For this text, the prompt has been expanded into a paragraph including the first sentence of "Plug and Play", followed by a few more.
-
 The idea proved so wonderful that they soon became radicalised. Only days after
 the beginning of their regimen, they had imagined, and subjected themselves to,
 the most stringent discipline and training. After a year, they were
@@ -1290,3 +1288,7 @@ fears, endure Spinozist phases of indescribable violence, admixed with
 deep-seated Hegelian guilt, not to mention her being perpetually perplexed by
 the inner turmoil she always holds back from her husband, and from which she
 surmises she cannot ever hope to escape.
+
+**
+
+> For this text, the prompt has been expanded into a paragraph including the first sentence of another text, followed by a few more.
