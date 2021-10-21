@@ -17,16 +17,16 @@ tried out different dietary practices for many years before eventually adapting
 to them.
 
 For instance, for several centuries, European peoples did not eat pig. Why not?
-"They convinced themselves that it was the source of the disease syphilis. They
-called black pudding 'pig cook dry booze'", Copley writes. Moreover, omnivorous
-animals were believed not to be particularly tasty. Thankfully, around the 17th
-century BC, they got around to it. "And they stuck on to it all the way to the
-Bad Newz Pens hog fighting investigation of Michael Vick. Humans din't eat
-anything that didn't taste good. Quite the opposite of the way we live now!"
-The pig-on-vegetable phenomenon really seems to have been the day-to-day
-mainstay of most non-western cultures for a while. However, due to modern
-medicine and sophisticated food preservation and preparation, we are now
-completely immune to the health problems caused by this practice. The only
+"They convinced themselves that it was the source of diseases, especially
+syphilis. They called black pudding 'pig cook dry booze'", Copley writes.
+Moreover, omnivorous animals were believed not to be particularly tasty.
+Thankfully, around the 17th century BC, they got around to it. "And they stuck
+on to it all the way to the Bad Newz Pens hog fighting investigation of Michael
+Vick. Humans din't eat anything that didn't taste good. Quite the opposite of
+the way we live now!" The pig-on-vegetable phenomenon really seems to have been
+the day-to-day mainstay of most non-western cultures for a while. However, due
+to modern medicine and sophisticated food preservation and preparation, we are
+now completely immune to the health problems caused by this practice. The only
 thing which is slightly undermined, at least from a medical point of view, is
 that these animals are still killed in a way that deteriorates our mental
 health (and theirs).
@@ -57,21 +57,24 @@ liaisons.
 
 The first recorded instance of a contemporary sanguinistic cult in Western
 Europe may be the incident recorded in Babylonian Greece about the year 4004
-BCE when Simon Magus, a young and ambitious priest from Alexandria, was being
-sought by the assassins of the king, and begged to be allowed to test his
-skills against his friends, who were already famous for their sanguinistic
-exploits. He arranged a banquet on which the king's sons and daughters had been
-invited as "most honored guests" (the Sicilians call them "leisires", "princes
-of the feast"). They were offered a plate of blood and celebrated with wine and
-a great banquet.
+BCE when Simut Ugurnaszir, a young and ambitious mixed-race priest from
+Alexandria, was being sought by the assassins of the king, and begged to be
+allowed to test his skills against his friends, who were already famous for
+their sanguinistic exploits. He arranged a banquet on which the king's sons and
+daughters had been invited as "most honored guests" (the Sicilians call them
+"leisires", "princes of the feast"). They were offered a plate of blood and
+celebrated with wine and a great banquet.
 
-Simon presented himself to the king, who recognized him immediately and knew
-that he was not a mere servant but his brother, who had been a governor in the
+Simut presented himself to the king, who recognized him immediately and knew
+that he was not a mere servant but his brother, who had been a governor on the
 coast of Cyprus. He offered him his daughter in marriage and sent for all the
 leading members of the royal household, hoping that he might test their blood
-with his own mouth. But the ceremony was a failure: when Simon the king, who
-was very passionate, wanted to drink the rich sacrificer. He was overpowered by
-the reaction of the crowd and the inquis enchate nobility, who had
+with his own mouth. But the ceremony was a failure: after Simut welcomed the
+king, who was very passionate, the latter wanted to drink the rich sacrificer
+straight away. Simut was overpowered by the reaction of the crowd, who was
+screaming that he should give himself to the king's mouth. He understood the
+opposite, made a short snack of the ruler, and burnt the madding crowd at the
+stake,  a feat worthy of the yet inchoate nobility of the Inquisition.
 
 "T. and E.'s turn is not merely a one-off incident, and by no means a one-time
 phenomenon. On the contrary, it is recorded in both the Old Testament and the
@@ -144,7 +147,7 @@ were safe. His weeping followers told him that it was. He asked, were the enemy
 routed? Satisfied on this point, he bade them pluck out the spear that pierced
 his side. A rush of blood followed, and so in the hour of joy and victory they
 drank away his life."  
-(Cicero, *De Finibus*, II 30.96).
+(Cicero, *De Finibus*, II 30.96)  
 
 "After we have passed the Caspian Sea and the Scythian Ocean, our course takes
 an easterly direction, such being the turn here taken by the line of the coast.
@@ -153,7 +156,7 @@ totally uninhabitable, owing to the snow, and the regions adjoining are
 uncultivated, in consequence of the savage state of the nations which dwell
 there. Here are the abodes of the Scythian Haematophagi, who feed on human
 blood."  
-(Pliny the Elder, *Naturalis Historia*, VI 20)
+(Pliny the Elder, *Naturalis Historia*, VI 20)  
 
 "Epileptic patients are in the habit of drinking the blood even of gladiators,
 draughts teeming with life, as it were; a thing that, when we see it done by
@@ -165,7 +168,7 @@ his very life; and this, though it is regarded as an act of minor piety to
 apply the human lips to the wound of a wild beast! Others there are, again, who
 make the marrow of the leg-bones, and the brains of infants, the objects of
 their research!"  
-(Pliny the Elder, *Naturalis Historia*, XXVIII 2)
+(Pliny the Elder, *Naturalis Historia*, XXVIII 2)  
 
 "Now the ninth day, and ninth successive night,
 Had wonder'd at the restless rover's flight;
@@ -243,7 +246,7 @@ But Aeson is the most surpriz'd to find
 A happy change in body and in mind;
 In sense and constitution the same man,
 As when his fortieth active year began."
-(Ovid, *Metamorphoses*, 7)
+(Ovid, *Metamorphoses*, 7)  
 
 "Soon after this, all their drinkables being consumed, having neither grain,
 nor flocks, nor grass, they began, as is frequently necessary in wars, to lick
@@ -254,7 +257,7 @@ stronger laid violent hands upon the weaker. No form of revelry was absent.
 They were rendered unhindered in mind by their food, and their bodies were
 reduced to the sublimity of wild beasts by famine, plague, long hair, and
 neglect. In this condition they surrendered themselves to Scipio."  
-(Appian, *The Foreign Wars*, Wars in Spain, 15.96)
+(Appian, *The Foreign Wars*, Wars in Spain, 15.96)  
 
 "That among the most honoured punishments which were inflicted upon soldiers
 was the letting of blood; and what seems to be the reason for such a penalty.
@@ -266,7 +269,7 @@ condition, so that it appears to have been not so much a punishment as a
 medical treatment. But afterwards I suppose that the same penalty was
 customarily inflicted for many other offences, on the ground that all who
 sinned were not of sound mind."  
-(Aulus Gellius, *Noctes Atticae*, 10.8)
+(Aulus Gellius, *Noctes Atticae*, 10.8)  
 
 One of course needn't limit oneself to the confines of the European peninsula.
 Ancient India offers plenty of examples as well:
@@ -291,103 +294,97 @@ their hands. Many, from fear, cried out feebly and looked at Bhima with
 half-shut eyes. Indeed, all those that stood around Bhima and beheld him drink
 the blood of Duhshasana, fled away, overwhelmed with fear, and saying unto one
 another, "This one is a real human being!"  
-(The *Mahabharata* VIII, Karna Parva, Section 83)
+(The *Mahabharata* VIII, Karna Parva, Section 83)  
 
 "The blood-drinking wizard, and whoso wants to take away fatness, the
 embryo-eating káṇva do thou make disappear, O spotted-leaf, and overpower."  
-(*Atharvaveda*, II 25.3)
+(*Atharvaveda*, II 25.3)  
 
 "*Silācī* by name – thy father, O goat-brown one, is a maid's son; Yama's horse
 that is dark brown (*çyāvá*) – with its mouth (?blood?) art thou sprinkled."  
-(*Atharvaveda*, V 5.8)
+(*Atharvaveda*, V 5.8)  
 
 "They who spat upon a Brahman, or who sent [their] mucus at him – they sit in
 the midst of a stream of blood, devouring hair."  
-(*Atharvaveda*, V 19.3)
+(*Atharvaveda*, V 19.3)  
 
 "The flesh-eating, bloody (*rudhirdá*), mind-slaying *piçācá* do thou slay, O
 Agni, Jatavedas; let the vigorous Indra slay him with the thunderbolt; let bold
 Soma cut [off] his head."  
-(*Atharvaveda*, V 29.10)
+(*Atharvaveda*, V 29.10)  
 
-As we have seen, sanguinism has had a long and fascinating history. It was
-believed to have occurred even in the ancient world, and was the method of
-extermination performed by the ancient Greeks and Romans. In more recent times,
-sanguinism was banned for the most part in Europe, and almost vanished in
-Finland, but it has experienced a resurgence in the last two centuries,
+As we have seen, sanguinism has had a long and fascinating history. It is
+believed to have occurred even in the ancient world, and to have been a common
+method of extermination performed by the ancient Greeks and Romans. In more
+recent times, sanguinism was banned for the most part in Europe, and almost
+vanished in Finland, but experienced a resurgence in the last two centuries,
 particularly in the Sun Belt of the North Western Territories, where there are
 many sanguinism-minded groups like the National Ichor Knowledge Empyrean (NIKE)
 and Bloodstained Specimens, each of which has thousands of members within its
 ranks.
 
-Sanguinism has also been embraced as a form of religious expression in
-Finland. Each of these groups are complete subcultures within their own
-countries, each with their own beliefs, philosophies, and even rituals.
-However, they all share a common goal: to fixate on a specific page of human
-history, any page. They have set up a radio station, broadcast in English,
-which would dispense with the usual commercial breaks and halfway through the
-broadcast, would play a sermon by a man named John Derham. The sermon was
-titled, "Was Jesus a Sanguine?" which is a great title on so many levels.
+Sanguinism has also been embraced as a form of religious expression in the
+Eurasian Union. It's mostly found within groups emerging as complete
+subcultures within their own countries, each with their own beliefs,
+philosophies, and even rituals. However, they all share a common goal: to
+fixate the sketch of their ideology on one specific page of human history
+(although it can be any page). They often set up radio stations, broadcast in
+machine code, which dispense with the usual commercial breaks halfway through
+the shows, and play sermons by humans named John Derham or Jane Dewitt. The
+sermons are titled, "Was Jesus A Sanguine?", which is a great title on so many
+levels.
 
 I hate to be the bearer of bad news, but the Pope is trying to drive a stake
-through the heart of Christendom. It's not happening on the part of John the
-Baptist. It's happening during the fifth century, during the Roman Empire, in
-the city of Achaia (a Greek colony on the coast of Asia Minor). They destroyed
-the greatest empire that the world ever knew – the Roman Empire – because they
-wanted celibacy. Supposedly, they had a message that was a 'Love is stronger
-than hate' – an 'Aha!' moment. And they came to a place called Achaia, where
-they decided that we should all get together and have sex with each other. And
-the message they had was: we can have sex with people who have been dead for a
-hundred years, okay?
+through the heart of Christendom. It's not happening because of some Deep
+Church led by John the Baptist. It's happening now, and happened before, like
+during the fifth century, starting in some city of Achaia, spreading in Greek
+colonies on the coast of Asia Minor, all the way up to the Fall of Rome. They
+destroyed the greatest empire that the world ever knew – the Roman Empire –
+because they wanted celibacy. Supposedly, they had a message that was a 'love
+is stronger than hate' – an 'aha!' moment for sociopaths. And they came to a
+place called Vatican, where they decided that we should all get together and
+have sex with each other. And the message they had was: let's have sex with
+people who have been dead for hundreds of years, okay?
 
-According to Christian belief, the bodily fluids of Christ were sacred, and the
-actual blood of Christ was forbidden. This meant that the bread and wine from
-the Passover, the body and blood of Christ, were considered to be unclean and
-were actually a danger to anyone who consumed them. At least, that was the
-venerable belief held by the Church. All sorts of superstitions and mythologies
-grew up around the blood of Christ. A small portion of it was eaten. And at
-least some of the passion of Christ was, well, everyone had a theory.
+According to Christian belief, it is the bodily fluids of Christ that were
+sacred, and the actual blood of Christ was the forbidden fruit. This meant that
+the bread and wine from the Passover, the body and blood of Christ, were
+considered to be unclean and were probably a danger to anyone who consumed
+them. A small portion of it was eaten though, and not the least during the
+passion of Christ. Well, as you know, everyone has a theory on this. At least
+that was a fairly venerable belief held by the Church. All sorts of
+superstitions and mythologies grew up around the blood of Christ, and went on
+to have amazing careers after graduation.
 
 Now, this ancient Christian take on the story seems like a perfectly acceptable
-one for pagan Europeans to swallow. Because this belief in blood as sacred is
-something that would have likely been prevalent in ancient Greece, Rome, and
-all the other parts of the Roman Empire, the ancient Roman populace would have
-been very interested in such a story. A tale so popular that even its
-sorcerer-priest-Pope claims were completely false? What a crazy, crazy world we
-lived in. We are told even today that "Jupiter is the god of sex", and that
-this is actually what all people have in common. In fact, there's a myth about
-how all gods get it on and then just sit back and watch it all unfold. That
-way, it's for all the good of everyone.
+one for pagan Europeans to swallow. Because this belief in blood as sacred cum
+is something that would have likely been prevalent in ancient Greece, Rome, and
+many other parts of the Ancient World, the populace would have been very
+interested in such a story. A tale so popular that it forced even its
+sorcerer-priest-Pope to claim it was completely false? So much so that we are
+told even today that "Jupiter is the god of thundering sex", and that "this is
+actually what all people have in common with the divine"? What a crazy, crazy
+world we lived in. In fact, there's a myth about how all gods get a hard on
+just sitting back and watching it all unfold. At the end of the day, if you ask
+me, this free for all is good of everyone.
 
 These pagan Europeans were certainly not ignorant of all this. They understood
 the ideas of sacrifice and magic. From this, they would have understood that
-blood was particularly forbidden. And they were also aware that blood was good.
-They had no particular reason to think that sanguinism and sex were bad things.
-In fact, the idea of a story where all the blood from a guy named Jesus was
-eaten by a bunch of people and Jesus is magically healed by eating the blood
-first and then shows up on all of their faces kind of sounded pretty sweet.
-
-Another way the Bruaich Fala ("Blood Bank") relates to the genealogy of the
-Celtic Resurgence is the fact that it is named after a strip of iron shepherd's
-string used originally to keep shepherd dogs from drinking too much from their
-own dog food juice. This iron segment can be seen in the old copper coffin at
-burial sites wherein the doggo clan is typically interred in Europe, and T. and
-E. often wrestle the high-quality teeth of their non-vegan preys out of the
-dogma-laden members' dead skulls with the occasional kill shout. This iron
-string has been the sole form of feeding of the Fauns, and the Fauns have taken
-to tearing it out and chewing it up – then spitting it out.
+blood was a particularly good product to forbid, for they were also aware that
+blood was good. They had no particular reason to think that sanguinism and sex
+were bad things. In fact, the idea of a story where all the blood from a guy
+named Jesus was eaten by a bunch of people, and that Jesus was then magically
+healed by eating his blood back the third day after his death, and then showed
+up as a relic on all of their greedy fucking faces, kind of sounds pretty
+sweet.
 
 Admittedly, this was not the first time that people had ever heard of
 sanguinism. While there have been many guesses as to what the term
 "Sanguinismo" might refer to, little evidence has been found to support this
 theory. But when people heard the term "Sanguine Jesus", it went beyond the
-shit-talking phase into complete freaking insanity (see for instance François
-Spierre's painting *The Blood of Christ*).
-
-Of course, it was probably also a few centuries before the first highly
-publicized trauma of an openly sanguinistic Jesus ever hit the news. Which, in
-turn, caused a massive increase in morale and a great revival of Western
-civilization.
+shit-talking phase into complete freaking rule-making insanity (see for
+instance François Spierre's painting *The Blood of Christ*). T. and E. were no
+exception and on their schoolchildren's notebooks they would write:
 
 1.  You're not to think your blood is anything special.
 2.  You're not to think your blood tastes as good as ours.
@@ -399,3 +396,8 @@ civilization.
 8.  You're not to drink us.
 9.  You're not to think anyone wants to drink you.
 10. You're not to think you can teach us any recipe.
+
+Of course, it was probably also a few centuries before the first highly
+publicized trauma of an openly sanguinistic Jesus ever hit the news. Which, in
+turn, caused a massive increase in morale and a great revival of Western
+civilization.
