@@ -1,3 +1,5 @@
+> This time, the initial prompt includes a black pudding recipe slightly adapted from the lovely recipe website [River Cottage](https://www.rivercottage.net/recipes/black-pudding). After that, the title of the next recipe, 'Blood Soup', was also given, concluding the prompt.
+
 A couple of vegans from Helsinki, Finland, Tuisku and Liekki (fictitious
 names), were very happy with their new diet when they turned, as it reflected
 their ethical ideals as much as it fostered their gastronomical imagination,
@@ -211,7 +213,3 @@ As fast as you can.*
 
 *[Round of applause! Congratulations! You have been selected to be the next raw
 ingredient!]*
-
-**
-
-> This time, the initial prompt includes a black pudding recipe slightly adapted from the lovely recipe website [River Cottage](https://www.rivercottage.net/recipes/black-pudding). After that, the title of the next recipe, 'Blood Soup', was also given, concluding the prompt.

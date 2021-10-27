@@ -1,3 +1,5 @@
+> Inference using the the [GPT-J-6B model](https://github.com/kingoflolz/mesh-transformer-jax/#GPT-J-6B) released by [EleutherAI](https://www.eleuther.ai/). The original prompt has been prolonged by the initial sentence.
+
 A couple of vegans from Helsinki, Finland, Tuisku and Liekki (fictitious
 names), were very happy with their new diet when they turned, as it reflected
 their ethical ideals as much as it fostered their gastronomical imagination,
@@ -107,9 +109,5 @@ it:
 - Summer blood: 14-15 °C  
 - Winter blood: 8-10 °C  
 
-[Round of applause! Congratulations! You have been selected to be the next
-raw ingredient!]
-
-**
-
-> Inference using the the [GPT-J-6B model](https://github.com/kingoflolz/mesh-transformer-jax/#GPT-J-6B) released by [EleutherAI](https://www.eleuther.ai/). The original prompt has been prolonged by the initial sentence.
+*[Round of applause! Congratulations! You have been selected to be the next
+raw ingredient!]*

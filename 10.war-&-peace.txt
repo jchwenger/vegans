@@ -1,3 +1,5 @@
+> For this text, the prompt has been expanded into a paragraph including the first sentence of another text, followed by a few more. More than any other text in this series, this piece is a seriously chaotic mash of many reworked samples, (each obtained using the initial prompt).
+
 A couple of vegans from Helsinki, Finland, Tuisku and Liekki (fictitious
 names), were very happy with their new diet when they turned, as it reflected
 their ethical ideals as much as it fostered their gastronomical imagination,
@@ -1277,7 +1279,3 @@ trenches, our red dawns, etc.]*
 
 *There are imperfection in blood, but (in our time at least) there will have
 been letterscapes, diagrams, stories, abstractions.*
-
-**
-
-> For this text, the prompt has been expanded into a paragraph including the first sentence of another text, followed by a few more.
