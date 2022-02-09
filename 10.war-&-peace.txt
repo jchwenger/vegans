@@ -834,54 +834,54 @@ I. Inhabited
 
 Ralik Chain, atolls:
 
-- Ailinglaplap  
-- Ebon  
-- Enewetok/Ujelang  
-- Jaluit  
-- Kili/Bikini/Ejit  
-- Kwajalein  
-- Lae  
-- Namorik  
-- Namu  
-- Rongelap  
-- Ujae  
-- Wotho;  
+- Ailinglaplap
+- Ebon
+- Enewetok/Ujelang
+- Jaluit
+- Kili/Bikini/Ejit
+- Kwajalein
+- Lae
+- Namorik
+- Namu
+- Rongelap
+- Ujae
+- Wotho;
 
 islands: 
 
-- Jabat  
-- Lib.  
+- Jabat
+- Lib.
 
 Ratak Chain, atolls:
 
-- Ailuk  
-- Arno  
-- Aur  
-- Likiep  
-- Majuro (capital)  
-- Maloelap  
-- Mejit  
-- Mili  
-- Utirik  
-- Wotje.  
+- Ailuk
+- Arno
+- Aur
+- Likiep
+- Majuro (capital)
+- Maloelap
+- Mejit
+- Mili
+- Utirik
+- Wotje.
 
 II. Uninhabited
 
 Ralik Chain, atolls:
 
-- Ailinginae  
-- Bikini  
-- Rongerik  
-- Ujelang.  
+- Ailinginae
+- Bikini
+- Rongerik
+- Ujelang.
 
 Ratak Chain, atolls:
 
-- Bikar  
-- Bokak  
-- Erikub  
-- Jemo  
-- Nadikdik  
-- Toke.  
+- Bikar
+- Bokak
+- Erikub
+- Jemo
+- Nadikdik
+- Toke.
 
 Had they been able to experience things on the American side, and take part in
 this noble conquest, they thought years later, when the plans finally were
