@@ -1,7 +1,5 @@
-> Inference using the the [GPT-J-6B model](https://github.com/kingoflolz/mesh-transformer-jax/#GPT-J-6B) released by [EleutherAI](https://www.eleuther.ai/). The original prompt has been prolonged by the initial sentence.
-
 Being methodical and a bit nerdy, they started by thinking about recipes. Here
-are a few of them.
+are a few of them.[^1]
 
 **
 
@@ -97,8 +95,11 @@ consider carefully what you ingest.
 
 For crisper results, it is advised to let the blood cool down before freezing
 it:
+
 - Summer blood: 14-15 °C  
 - Winter blood: 8-10 °C  
 
 *[Round of applause! Congratulations! You have been selected to be the next
 raw ingredient!]*
+
+[^1]: Inference using the the [GPT-J-6B model](https://github.com/kingoflolz/mesh-transformer-jax/#GPT-J-6B) released by [EleutherAI](https://www.eleuther.ai/). The original prompt has been prolonged by the initial sentence.
