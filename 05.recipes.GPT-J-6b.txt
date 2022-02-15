@@ -1,7 +1,7 @@
 ## 5.
 
 Being methodical and a bit nerdy, they started by thinking about recipes. Here
-are a few of them.[^1]
+are a few of them.
 
 *All dairy products are assumed to be of human or plant origin, or synthetic.*
 
@@ -104,5 +104,3 @@ it:
 
 *[Round of applause! Congratulations! You have been selected to be the next
 raw ingredient!]*
-
-[^1]: Inference using the the [GPT-J-6B model](https://github.com/kingoflolz/mesh-transformer-jax/#GPT-J-6B) released by [EleutherAI](https://www.eleuther.ai/). The original prompt has been prolonged by the initial sentence.

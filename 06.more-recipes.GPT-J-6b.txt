@@ -1,7 +1,7 @@
 ## 6.
 
 Being methodical and a bit nerdy, they started by thinking about recipes. Here
-are a few of them.[^2]
+are a few of them.
 
 **Black Pudding**
 
@@ -204,5 +204,3 @@ In one fine lick.*
 
 *[Round of applause! Congratulations! You have been selected to be the next raw
 ingredient!]*
-
-[^2]: This time, the initial prompt includes a black pudding recipe slightly adapted from the lovely recipe website [River Cottage](https://www.rivercottage.net/recipes/black-pudding). After that, the title of the next recipe, 'Blood Soup', was also given, concluding the prompt.
