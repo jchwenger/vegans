@@ -7,7 +7,7 @@ combat-ready. They booked their plane tickets, and flew to San Antonio, Texas,
 landing just a few miles away from the war zone. As Liekki and Tuisku felt the
 Southern sun on their skins and the dry, dusty air in their lungs, they
 contemplated with joy the sacred nature of their mission: to kill meat-eating
-humans.[^4]
+humans.
 
 Initially, their organization was ruthless. With only a little experience, they
 killed their first political victim, Juana Cruz. She was and elderly spy and
@@ -1287,5 +1287,3 @@ trenches, our red dawns, etc.]*
 
 *There are imperfection in blood, but (in our time at least) there will have
 been letterscapes, diagrams, stories, abstractions.*
-
-[^4]: For this text, the prompt has been expanded into a paragraph including the first sentence of another text, followed by a few more. More than any other text in this series, this piece is a seriously chaotic mash of many reworked samples, (each obtained using the initial prompt).
